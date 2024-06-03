@@ -8,6 +8,8 @@
 
 🌈 Contribution guidelines - Join our [Telegram group](https://t.me/masscollabs)
 
+😎 For High Performance Computing Labs please send an email to hpc@masscollaborationlabs.xyz
+
 👩‍💻 Useful resources - [Masscollabs Services Code of Conduct](https://github.com/masscollabs/masscollabs/blob/master/CODE_OF_CONDUCT.md)
 
 🍿 Fun facts - We drink coffee and eat banana !
