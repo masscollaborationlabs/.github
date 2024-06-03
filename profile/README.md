@@ -8,7 +8,7 @@
 
 🌈 Contribution guidelines - Join our [Telegram group](https://t.me/masscollabs)
 
-😎 For High Performance Computing Labs please send an email to hpc@masscollaborationlabs.xyz
+😎 For High Performance Computing Labs please send an email to hpc@masscollaborationlabs.xyz to see E-mail subscription web page please visit https://masscollaborationlabs.xyz/mailman/listinfo/hpc_masscollaborationlabs.xyz
 
 👩‍💻 Useful resources - [Masscollabs Services Code of Conduct](https://github.com/masscollabs/masscollabs/blob/master/CODE_OF_CONDUCT.md)
 
