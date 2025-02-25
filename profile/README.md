@@ -1,20 +1,8 @@
 ## Hi there 👋
 
+We provide Free Software training services with Free Software tools such as GNU Emacs, git, GCC, Python, Jitsi and more !
 
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - Free Software Training by [Masscollabs Services](https://www.masscollabs.xyz)
-
-🌈 Contribution guidelines - Join our [Telegram group](https://t.me/masscollabs)
-
-😎 For High Performance Computing Labs please send an email to hpc@masscollaborationlabs.xyz to see E-mail subscription web page please visit https://masscollaborationlabs.xyz/mailman/listinfo/hpc_masscollaborationlabs.xyz
-
-👩‍💻 Useful resources - [Masscollabs Services Code of Conduct](https://github.com/masscollabs/masscollabs/blob/master/CODE_OF_CONDUCT.md)
-
-🍿 Fun facts - We drink coffee and eat banana !
-
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+happy hacking !
 
 # License
 
