@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Mass Collaboration Labs](../img/348936.png)
+
 We provide Free Software training services with Free Software tools such as GNU Emacs, git, GCC, Python, Jitsi and more !
 
 happy hacking !
